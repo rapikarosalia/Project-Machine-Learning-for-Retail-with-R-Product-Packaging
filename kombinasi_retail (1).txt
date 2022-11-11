@@ -1,0 +1,11 @@
+"rules" "support" "confidence" "lift"
+"81" "{Baju Renang Pria Anak-anak,item7} => {Tas Makeup}" 0.015 1 66.6666666666667
+"84" "{Baju Renang Pria Anak-anak,item14} => {Tas Makeup}" 0.015 1 66.6666666666667
+"87" "{Baju Renang Pria Anak-anak,item35} => {Tas Makeup}" 0.015 1 66.6666666666667
+"9" "{Tas Makeup} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5
+"10" "{Baju Renang Pria Anak-anak} => {Tas Makeup}" 0.015 0.9375 62.5
+"80" "{Tas Makeup,item7} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5
+"83" "{Tas Makeup,item14} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5
+"86" "{Tas Makeup,item35} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5
+"90" "{item14,item7} => {Tas Makeup}" 0.015 0.9375 62.5
+"93" "{item35,item7} => {Tas Makeup}" 0.015 0.9375 62.5

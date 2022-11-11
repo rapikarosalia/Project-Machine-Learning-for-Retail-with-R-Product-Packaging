@@ -1,0 +1,7 @@
+"rules" "support" "confidence" "lift"
+"190" "{Baju Renang Pria Anak-anak,item7} => {Tas Makeup}" 0.015 1 66.6666666666667
+"193" "{Baju Renang Pria Anak-anak,item14} => {Tas Makeup}" 0.015 1 66.6666666666667
+"196" "{Baju Renang Pria Anak-anak,item35} => {Tas Makeup}" 0.015 1 66.6666666666667
+"10" "{Tas Makeup} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5
+"189" "{Tas Makeup,item7} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5
+"192" "{Tas Makeup,item14} => {Baju Renang Pria Anak-anak}" 0.015 1 62.5

@@ -1,0 +1,11 @@
+"","Nama.Produk","Jumlah"
+"1","item74",4
+"2","item11",6
+"3","item22",9
+"4","item1",12
+"5","Baju Renang Pria Anak-anak",14
+"6","item17",19
+"7","Tas Makeup",25
+"8","item14",26
+"9","item29",26
+"10","item52",36
